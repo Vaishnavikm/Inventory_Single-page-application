@@ -1,0 +1,10 @@
+{"products":
+    [
+      {"availability":"1","pid":"P01","name":"Dark Chocolate","dom":"April 21 ,2021","exp":"best before 12 months from dom","category":"chocolate","quantity":"4 kg","price":2500.00},
+      {"availability":"0","pid":"P02","name":"White Chocolate","dom":"June 30 ,2021","exp":"best before 12 months from dom","category":"chocolate","quantity":"null","price":0},
+      {"availability":"1","pid":"P03","name":"Hazelnuts","dom":"August 8 ,2021","exp":"best before 9 months from dom","category":"Nuts and dryfruits","quantity":"2 kg","price":1300.00},
+      {"availability":"1","pid":"P04","name":"Sugar","dom":"September 21 ,2021","exp":"best before 12 months from dom","category":"sweetner","quantity":"8 kg","price":800.00},
+      {"availability":"1","pid":"P05","name":"Coffee beans","dom":"October 12 ,2021","exp":"best before 14 months from dom","category":"raw materials","quantity":"4 kg","price":2500.00},
+      {"availability":"0","pid":"P06","name":"Choco chips","dom":"February 28 ,2021","exp":"best before 12 months from dom","category":"chocolate","quantity":"null","price":0}
+    ]
+   }

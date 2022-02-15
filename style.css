@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: #4f5252;
+    padding:1%;
+    margin: 0;
+}
+table{
+    background-color: #f8f0f0;
+    width:90%;
+}
+td, th{
+    text-align:left;
+    font-size: small;
+}
