@@ -8,12 +8,12 @@ app.config(function($routeProvider) {
         controller: 'FirstController'
     })
 
-    .when('/manipulate', {
+    .when('/aboutus', {
         templateUrl: 'product.html',
         controller: 'SecondController'
     })
 
-    .when('/mechanicdata', {
+    .when('/manipulate', {
         templateUrl: 'productinfo.html',
         controller: 'ThirdController'
     })
